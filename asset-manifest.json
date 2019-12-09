@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zx-assignment/static/css/main.8811b78c.chunk.css",
+    "main.js": "/zx-assignment/static/js/main.6c0524c0.chunk.js",
+    "main.js.map": "/zx-assignment/static/js/main.6c0524c0.chunk.js.map",
+    "runtime-main.js": "/zx-assignment/static/js/runtime-main.f6e54e5b.js",
+    "runtime-main.js.map": "/zx-assignment/static/js/runtime-main.f6e54e5b.js.map",
+    "static/js/2.446119ea.chunk.js": "/zx-assignment/static/js/2.446119ea.chunk.js",
+    "static/js/2.446119ea.chunk.js.map": "/zx-assignment/static/js/2.446119ea.chunk.js.map",
+    "index.html": "/zx-assignment/index.html",
+    "precache-manifest.66c452b3875a935b1c70171d3f3ba2cb.js": "/zx-assignment/precache-manifest.66c452b3875a935b1c70171d3f3ba2cb.js",
+    "service-worker.js": "/zx-assignment/service-worker.js",
+    "static/css/main.8811b78c.chunk.css.map": "/zx-assignment/static/css/main.8811b78c.chunk.css.map",
+    "static/js/2.446119ea.chunk.js.LICENSE": "/zx-assignment/static/js/2.446119ea.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6e54e5b.js",
+    "static/js/2.446119ea.chunk.js",
+    "static/css/main.8811b78c.chunk.css",
+    "static/js/main.6c0524c0.chunk.js"
+  ]
+}
